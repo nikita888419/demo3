@@ -1,2 +1,6 @@
 tiger
+<<<<<<< HEAD
 dog
+=======
+lion
+>>>>>>> 0d274c8b2e52accfb064f525e3909c7e4c82f124
